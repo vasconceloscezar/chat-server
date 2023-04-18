@@ -5,6 +5,7 @@ const router = express.Router();
 const userController = require("../controllers/userController");
 const chatRoomController = require("../controllers/chatRoomController");
 const messageController = require("../controllers/messageController");
+const twilioIntegrationController = require("../controllers/twilioIntegrationController");
 
 // User routes
 router.post("/register", userController.registerUser);
@@ -18,5 +19,6 @@ router.get("/rooms", chatRoomController.getRooms);
 // Message routes
 router.post("/messages", messageController.sendMessage);
 router.get("/messages", messageController.getMessages);
+router.post("/whatsapp", twilioIntegrationController.whatsAppMessage);
 
 module.exports = router;

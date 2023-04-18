@@ -15,7 +15,6 @@ const io = socketIO(server, {
 });
 
 mongoose.connect("mongodb://localhost/chat_db", { useNewUrlParser: true, useUnifiedTopology: true });
-// mongoose.connection.dropDatabase();
 
 app.use(cors());
 app.use(express.json());
@@ -37,8 +36,13 @@ io.on("connection", (socket) => {
   });
 
   socket.on("message", (data) => {
-    console.log(new Date.now() + data.user + " : " + data.message);
-    io.in(data.room).emit("new message", { user: data.user, message: data.message });
+    const timeRecieved = Date.now();
+    console.log(data);
+    console.log(`${timeRecieved} ${data.user} : ${data.message}`);
+    // You can also store and process the browserData here if needed
+    // console.log(data.browserData);
+
+    io.emit("message", { user: data.user, message: data.message, time: timeRecieved });
   });
 
   socket.on("disconnect", () => {
@@ -46,6 +50,6 @@ io.on("connection", (socket) => {
   });
 });
 
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 8080;
 
 server.listen(PORT, () => console.log(`Server running on port ${PORT}`));
