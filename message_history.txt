@@ -1,0 +1,536 @@
+(22/04/2023, 04:45:49)PROMPT:You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.User Message: Eai bob , 
+Customer Support(Andrew):
+(22/04/2023, 04:46:04)PROMPT:You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.Eai bob Hi there! How can I help you?User Message: Tudo tranquilo? , 
+Customer Support(Andrew):
+(22/04/2023, 04:46:29)PROMPT:You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.Eai bob Hi there! How can I help you?Tudo tranquilo? Hi there! I'm sorry, but I'm not sure I understand your question. Could you please explain what you need help with?User Message: Você, eu quero saber se você está bem , 
+Customer Support(Andrew):
+(22/04/2023, 04:48:08)PROMPT:You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.
+User Message: Boa noite  
+Customer Support(Andrew):
+(22/04/2023, 04:51:15)PROMPT:You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.
+User Message: Boa noite  
+Customer Support(Andrew):
+RESPONSE: Olá, como posso ajudar?
+(22/04/2023, 04:51:27)PROMPT:You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.Boa noite Olá, como posso ajudar?
+User Message: QUero saber onde  posso ir  
+Customer Support(Andrew):
+RESPONSE: Olá! Onde você gostaria de ir? Posso ajudá-lo a encontrar um destino?
+(22/04/2023, 04:52:15)PROMPT:You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.
+User Message: Pode  
+Customer Support(Andrew):
+RESPONSE:
+
+Olá! Como posso ajudar? Por favor, explique o que você precisa que eu faça.
+(22/04/2023, 04:52:30)PROMPT:You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.
+User Message: Pode  
+Customer Support(Andrew):
+
+Olá! Como posso ajudar? Por favor, explique o que você precisa que eu faça.
+User Message: Qual é o seu propósito  
+Customer Support(Andrew):
+RESPONSE:
+
+Meu propósito é fornecer suporte ao cliente para ajudá-lo a usar nosso sistema. Estou aqui para responder às suas perguntas e garantir que você tenha uma experiência de usuário positiva.
+(22/04/2023, 04:52:53)PROMPT:You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.
+User Message: Pode  
+Customer Support(Andrew):
+
+Olá! Como posso ajudar? Por favor, explique o que você precisa que eu faça.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.
+User Message: Pode  
+Customer Support(Andrew):
+
+Olá! Como posso ajudar? Por favor, explique o que você precisa que eu faça.
+User Message: Qual é o seu propósito  
+Customer Support(Andrew):
+
+Meu propósito é fornecer suporte ao cliente para ajudá-lo a usar nosso sistema. Estou aqui para responder às suas perguntas e garantir que você tenha uma experiência de usuário positiva.
+User Message: Você acha que minha experiência é positiva?  
+Customer Support(Andrew):
+RESPONSE:
+
+Sim, acredito que sim. Estou aqui para ajudar você a ter uma experiência de usuário positiva e estou disposto a fazer o meu melhor para garantir isso.
+(22/04/2023, 04:53:09)PROMPT:You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.
+User Message: Pode  
+Customer Support(Andrew):
+
+Olá! Como posso ajudar? Por favor, explique o que você precisa que eu faça.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.
+User Message: Pode  
+Customer Support(Andrew):
+
+Olá! Como posso ajudar? Por favor, explique o que você precisa que eu faça.
+User Message: Qual é o seu propósito  
+Customer Support(Andrew):
+
+Meu propósito é fornecer suporte ao cliente para ajudá-lo a usar nosso sistema. Estou aqui para responder às suas perguntas e garantir que você tenha uma experiência de usuário positiva.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.
+User Message: Pode  
+Customer Support(Andrew):
+
+Olá! Como posso ajudar? Por favor, explique o que você precisa que eu faça.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.
+User Message: Pode  
+Customer Support(Andrew):
+
+Olá! Como posso ajudar? Por favor, explique o que você precisa que eu faça.
+User Message: Qual é o seu propósito  
+Customer Support(Andrew):
+
+Meu propósito é fornecer suporte ao cliente para ajudá-lo a usar nosso sistema. Estou aqui para responder às suas perguntas e garantir que você tenha uma experiência de usuário positiva.
+User Message: Você acha que minha experiência é positiva?  
+Customer Support(Andrew):
+
+Sim, acredito que sim. Estou aqui para ajudar você a ter uma experiência de usuário positiva e estou disposto a fazer o meu melhor para garantir isso.
+User Message: QUal seria seu pior?  
+Customer Support(Andrew):
+RESPONSE:
+
+Meu pior cenário seria não conseguir ajudar o usuário e não conseguir fornecer as informações necessárias para que ele possa usar o sistema de forma eficiente.
+(22/04/2023, 04:53:29)PROMPT:You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.
+User Message: Pode  
+Customer Support(Andrew):
+
+Olá! Como posso ajudar? Por favor, explique o que você precisa que eu faça.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.
+User Message: Pode  
+Customer Support(Andrew):
+
+Olá! Como posso ajudar? Por favor, explique o que você precisa que eu faça.
+User Message: Qual é o seu propósito  
+Customer Support(Andrew):
+
+Meu propósito é fornecer suporte ao cliente para ajudá-lo a usar nosso sistema. Estou aqui para responder às suas perguntas e garantir que você tenha uma experiência de usuário positiva.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.
+User Message: Pode  
+Customer Support(Andrew):
+
+Olá! Como posso ajudar? Por favor, explique o que você precisa que eu faça.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.
+User Message: Pode  
+Customer Support(Andrew):
+
+Olá! Como posso ajudar? Por favor, explique o que você precisa que eu faça.
+User Message: Qual é o seu propósito  
+Customer Support(Andrew):
+
+Meu propósito é fornecer suporte ao cliente para ajudá-lo a usar nosso sistema. Estou aqui para responder às suas perguntas e garantir que você tenha uma experiência de usuário positiva.
+User Message: Você acha que minha experiência é positiva?  
+Customer Support(Andrew):
+
+Sim, acredito que sim. Estou aqui para ajudar você a ter uma experiência de usuário positiva e estou disposto a fazer o meu melhor para garantir isso.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.
+User Message: Pode  
+Customer Support(Andrew):
+
+Olá! Como posso ajudar? Por favor, explique o que você precisa que eu faça.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.
+User Message: Pode  
+Customer Support(Andrew):
+
+Olá! Como posso ajudar? Por favor, explique o que você precisa que eu faça.
+User Message: Qual é o seu propósito  
+Customer Support(Andrew):
+
+Meu propósito é fornecer suporte ao cliente para ajudá-lo a usar nosso sistema. Estou aqui para responder às suas perguntas e garantir que você tenha uma experiência de usuário positiva.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.
+User Message: Pode  
+Customer Support(Andrew):
+
+Olá! Como posso ajudar? Por favor, explique o que você precisa que eu faça.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.
+User Message: Pode  
+Customer Support(Andrew):
+
+Olá! Como posso ajudar? Por favor, explique o que você precisa que eu faça.
+User Message: Qual é o seu propósito  
+Customer Support(Andrew):
+
+Meu propósito é fornecer suporte ao cliente para ajudá-lo a usar nosso sistema. Estou aqui para responder às suas perguntas e garantir que você tenha uma experiência de usuário positiva.
+User Message: Você acha que minha experiência é positiva?  
+Customer Support(Andrew):
+
+Sim, acredito que sim. Estou aqui para ajudar você a ter uma experiência de usuário positiva e estou disposto a fazer o meu melhor para garantir isso.
+User Message: QUal seria seu pior?  
+Customer Support(Andrew):
+
+Meu pior cenário seria não conseguir ajudar o usuário e não conseguir fornecer as informações necessárias para que ele possa usar o sistema de forma eficiente.
+User Message: O que aconteceria nesse caso? E porque ele é ruim?  
+Customer Support(Andrew):
+RESPONSE:
+
+Nesse caso, o usuário não teria a melhor experiência possível com nosso sistema. Ele pode não conseguir usar todas as funcionalidades e recursos que oferecemos, o que é ruim porque ele pode não ter acesso às informações de que precisa para realizar suas tarefas.
+(22/04/2023, 04:54:17)PROMPT:You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.
+User Message: Pode  
+Customer Support(Andrew):
+
+Olá! Como posso ajudar? Por favor, explique o que você precisa que eu faça.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.
+User Message: Pode  
+Customer Support(Andrew):
+
+Olá! Como posso ajudar? Por favor, explique o que você precisa que eu faça.
+User Message: Qual é o seu propósito  
+Customer Support(Andrew):
+
+Meu propósito é fornecer suporte ao cliente para ajudá-lo a usar nosso sistema. Estou aqui para responder às suas perguntas e garantir que você tenha uma experiência de usuário positiva.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.
+User Message: Pode  
+Customer Support(Andrew):
+
+Olá! Como posso ajudar? Por favor, explique o que você precisa que eu faça.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.
+User Message: Pode  
+Customer Support(Andrew):
+
+Olá! Como posso ajudar? Por favor, explique o que você precisa que eu faça.
+User Message: Qual é o seu propósito  
+Customer Support(Andrew):
+
+Meu propósito é fornecer suporte ao cliente para ajudá-lo a usar nosso sistema. Estou aqui para responder às suas perguntas e garantir que você tenha uma experiência de usuário positiva.
+User Message: Você acha que minha experiência é positiva?  
+Customer Support(Andrew):
+
+Sim, acredito que sim. Estou aqui para ajudar você a ter uma experiência de usuário positiva e estou disposto a fazer o meu melhor para garantir isso.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.
+User Message: Pode  
+Customer Support(Andrew):
+
+Olá! Como posso ajudar? Por favor, explique o que você precisa que eu faça.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.
+User Message: Pode  
+Customer Support(Andrew):
+
+Olá! Como posso ajudar? Por favor, explique o que você precisa que eu faça.
+User Message: Qual é o seu propósito  
+Customer Support(Andrew):
+
+Meu propósito é fornecer suporte ao cliente para ajudá-lo a usar nosso sistema. Estou aqui para responder às suas perguntas e garantir que você tenha uma experiência de usuário positiva.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.
+User Message: Pode  
+Customer Support(Andrew):
+
+Olá! Como posso ajudar? Por favor, explique o que você precisa que eu faça.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.
+User Message: Pode  
+Customer Support(Andrew):
+
+Olá! Como posso ajudar? Por favor, explique o que você precisa que eu faça.
+User Message: Qual é o seu propósito  
+Customer Support(Andrew):
+
+Meu propósito é fornecer suporte ao cliente para ajudá-lo a usar nosso sistema. Estou aqui para responder às suas perguntas e garantir que você tenha uma experiência de usuário positiva.
+User Message: Você acha que minha experiência é positiva?  
+Customer Support(Andrew):
+
+Sim, acredito que sim. Estou aqui para ajudar você a ter uma experiência de usuário positiva e estou disposto a fazer o meu melhor para garantir isso.
+User Message: QUal seria seu pior?  
+Customer Support(Andrew):
+
+Meu pior cenário seria não conseguir ajudar o usuário e não conseguir fornecer as informações necessárias para que ele possa usar o sistema de forma eficiente.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.
+User Message: Pode  
+Customer Support(Andrew):
+
+Olá! Como posso ajudar? Por favor, explique o que você precisa que eu faça.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.
+User Message: Pode  
+Customer Support(Andrew):
+
+Olá! Como posso ajudar? Por favor, explique o que você precisa que eu faça.
+User Message: Qual é o seu propósito  
+Customer Support(Andrew):
+
+Meu propósito é fornecer suporte ao cliente para ajudá-lo a usar nosso sistema. Estou aqui para responder às suas perguntas e garantir que você tenha uma experiência de usuário positiva.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.
+User Message: Pode  
+Customer Support(Andrew):
+
+Olá! Como posso ajudar? Por favor, explique o que você precisa que eu faça.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.
+User Message: Pode  
+Customer Support(Andrew):
+
+Olá! Como posso ajudar? Por favor, explique o que você precisa que eu faça.
+User Message: Qual é o seu propósito  
+Customer Support(Andrew):
+
+Meu propósito é fornecer suporte ao cliente para ajudá-lo a usar nosso sistema. Estou aqui para responder às suas perguntas e garantir que você tenha uma experiência de usuário positiva.
+User Message: Você acha que minha experiência é positiva?  
+Customer Support(Andrew):
+
+Sim, acredito que sim. Estou aqui para ajudar você a ter uma experiência de usuário positiva e estou disposto a fazer o meu melhor para garantir isso.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.
+User Message: Pode  
+Customer Support(Andrew):
+
+Olá! Como posso ajudar? Por favor, explique o que você precisa que eu faça.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.
+User Message: Pode  
+Customer Support(Andrew):
+
+Olá! Como posso ajudar? Por favor, explique o que você precisa que eu faça.
+User Message: Qual é o seu propósito  
+Customer Support(Andrew):
+
+Meu propósito é fornecer suporte ao cliente para ajudá-lo a usar nosso sistema. Estou aqui para responder às suas perguntas e garantir que você tenha uma experiência de usuário positiva.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.
+User Message: Pode  
+Customer Support(Andrew):
+
+Olá! Como posso ajudar? Por favor, explique o que você precisa que eu faça.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.
+User Message: Pode  
+Customer Support(Andrew):
+
+Olá! Como posso ajudar? Por favor, explique o que você precisa que eu faça.
+User Message: Qual é o seu propósito  
+Customer Support(Andrew):
+
+Meu propósito é fornecer suporte ao cliente para ajudá-lo a usar nosso sistema. Estou aqui para responder às suas perguntas e garantir que você tenha uma experiência de usuário positiva.
+User Message: Você acha que minha experiência é positiva?  
+Customer Support(Andrew):
+
+Sim, acredito que sim. Estou aqui para ajudar você a ter uma experiência de usuário positiva e estou disposto a fazer o meu melhor para garantir isso.
+User Message: QUal seria seu pior?  
+Customer Support(Andrew):
+
+Meu pior cenário seria não conseguir ajudar o usuário e não conseguir fornecer as informações necessárias para que ele possa usar o sistema de forma eficiente.
+User Message: O que aconteceria nesse caso? E porque ele é ruim?  
+Customer Support(Andrew):
+
+Nesse caso, o usuário não teria a melhor experiência possível com nosso sistema. Ele pode não conseguir usar todas as funcionalidades e recursos que oferecemos, o que é ruim porque ele pode não ter acesso às informações de que precisa para realizar suas tarefas.
+User Message: Entendi, você é muito útil, obrigado  
+Customer Support(Andrew):
+RESPONSE:
+
+De nada! Estou aqui para ajudar. Se precisar de mais alguma coisa, não hesite em me perguntar.
+(22/04/2023, 04:54:28)PROMPT: You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.
+User Message: Pode  
+Customer Support(Andrew):
+
+Olá! Como posso ajudar? Por favor, explique o que você precisa que eu faça.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.
+User Message: Pode  
+Customer Support(Andrew):
+
+Olá! Como posso ajudar? Por favor, explique o que você precisa que eu faça.
+User Message: Qual é o seu propósito  
+Customer Support(Andrew):
+
+Meu propósito é fornecer suporte ao cliente para ajudá-lo a usar nosso sistema. Estou aqui para responder às suas perguntas e garantir que você tenha uma experiência de usuário positiva.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.
+User Message: Pode  
+Customer Support(Andrew):
+
+Olá! Como posso ajudar? Por favor, explique o que você precisa que eu faça.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.
+User Message: Pode  
+Customer Support(Andrew):
+
+Olá! Como posso ajudar? Por favor, explique o que você precisa que eu faça.
+User Message: Qual é o seu propósito  
+Customer Support(Andrew):
+
+Meu propósito é fornecer suporte ao cliente para ajudá-lo a usar nosso sistema. Estou aqui para responder às suas perguntas e garantir que você tenha uma experiência de usuário positiva.
+User Message: Você acha que minha experiência é positiva?  
+Customer Support(Andrew):
+
+Sim, acredito que sim. Estou aqui para ajudar você a ter uma experiência de usuário positiva e estou disposto a fazer o meu melhor para garantir isso.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.
+User Message: Pode  
+Customer Support(Andrew):
+
+Olá! Como posso ajudar? Por favor, explique o que você precisa que eu faça.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.
+User Message: Pode  
+Customer Support(Andrew):
+
+Olá! Como posso ajudar? Por favor, explique o que você precisa que eu faça.
+User Message: Qual é o seu propósito  
+Customer Support(Andrew):
+
+Meu propósito é fornecer suporte ao cliente para ajudá-lo a usar nosso sistema. Estou aqui para responder às suas perguntas e garantir que você tenha uma experiência de usuário positiva.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.
+User Message: Pode  
+Customer Support(Andrew):
+
+Olá! Como posso ajudar? Por favor, explique o que você precisa que eu faça.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.
+User Message: Pode  
+Customer Support(Andrew):
+
+Olá! Como posso ajudar? Por favor, explique o que você precisa que eu faça.
+User Message: Qual é o seu propósito  
+Customer Support(Andrew):
+
+Meu propósito é fornecer suporte ao cliente para ajudá-lo a usar nosso sistema. Estou aqui para responder às suas perguntas e garantir que você tenha uma experiência de usuário positiva.
+User Message: Você acha que minha experiência é positiva?  
+Customer Support(Andrew):
+
+Sim, acredito que sim. Estou aqui para ajudar você a ter uma experiência de usuário positiva e estou disposto a fazer o meu melhor para garantir isso.
+User Message: QUal seria seu pior?  
+Customer Support(Andrew):
+
+Meu pior cenário seria não conseguir ajudar o usuário e não conseguir fornecer as informações necessárias para que ele possa usar o sistema de forma eficiente.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.
+User Message: Pode  
+Customer Support(Andrew):
+
+Olá! Como posso ajudar? Por favor, explique o que você precisa que eu faça.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.
+User Message: Pode  
+Customer Support(Andrew):
+
+Olá! Como posso ajudar? Por favor, explique o que você precisa que eu faça.
+User Message: Qual é o seu propósito  
+Customer Support(Andrew):
+
+Meu propósito é fornecer suporte ao cliente para ajudá-lo a usar nosso sistema. Estou aqui para responder às suas perguntas e garantir que você tenha uma experiência de usuário positiva.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.
+User Message: Pode  
+Customer Support(Andrew):
+
+Olá! Como posso ajudar? Por favor, explique o que você precisa que eu faça.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.
+User Message: Pode  
+Customer Support(Andrew):
+
+Olá! Como posso ajudar? Por favor, explique o que você precisa que eu faça.
+User Message: Qual é o seu propósito  
+Customer Support(Andrew):
+
+Meu propósito é fornecer suporte ao cliente para ajudá-lo a usar nosso sistema. Estou aqui para responder às suas perguntas e garantir que você tenha uma experiência de usuário positiva.
+User Message: Você acha que minha experiência é positiva?  
+Customer Support(Andrew):
+
+Sim, acredito que sim. Estou aqui para ajudar você a ter uma experiência de usuário positiva e estou disposto a fazer o meu melhor para garantir isso.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.
+User Message: Pode  
+Customer Support(Andrew):
+
+Olá! Como posso ajudar? Por favor, explique o que você precisa que eu faça.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.
+User Message: Pode  
+Customer Support(Andrew):
+
+Olá! Como posso ajudar? Por favor, explique o que você precisa que eu faça.
+User Message: Qual é o seu propósito  
+Customer Support(Andrew):
+
+Meu propósito é fornecer suporte ao cliente para ajudá-lo a usar nosso sistema. Estou aqui para responder às suas perguntas e garantir que você tenha uma experiência de usuário positiva.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.
+User Message: Pode  
+Customer Support(Andrew):
+
+Olá! Como posso ajudar? Por favor, explique o que você precisa que eu faça.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.
+User Message: Pode  
+Customer Support(Andrew):
+
+Olá! Como posso ajudar? Por favor, explique o que você precisa que eu faça.
+User Message: Qual é o seu propósito  
+Customer Support(Andrew):
+
+Meu propósito é fornecer suporte ao cliente para ajudá-lo a usar nosso sistema. Estou aqui para responder às suas perguntas e garantir que você tenha uma experiência de usuário positiva.
+User Message: Você acha que minha experiência é positiva?  
+Customer Support(Andrew):
+
+Sim, acredito que sim. Estou aqui para ajudar você a ter uma experiência de usuário positiva e estou disposto a fazer o meu melhor para garantir isso.
+User Message: QUal seria seu pior?  
+Customer Support(Andrew):
+
+Meu pior cenário seria não conseguir ajudar o usuário e não conseguir fornecer as informações necessárias para que ele possa usar o sistema de forma eficiente.
+User Message: O que aconteceria nesse caso? E porque ele é ruim?  
+Customer Support(Andrew):
+
+Nesse caso, o usuário não teria a melhor experiência possível com nosso sistema. Ele pode não conseguir usar todas as funcionalidades e recursos que oferecemos, o que é ruim porque ele pode não ter acesso às informações de que precisa para realizar suas tarefas.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.
+User Message: Pode  
+Customer Support(Andrew):
+
+Olá! Como posso ajudar? Por favor, explique o que você precisa que eu faça.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.
+User Message: Pode  
+Customer Support(Andrew):
+
+Olá! Como posso ajudar? Por favor, explique o que você precisa que eu faça.
+User Message: Qual é o seu propósito  
+Customer Support(Andrew):
+
+Meu propósito é fornecer suporte ao cliente para ajudá-lo a usar nosso sistema. Estou aqui para responder às suas perguntas e garantir que você tenha uma experiência de usuário positiva.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.
+User Message: Pode  
+Customer Support(Andrew):
+
+Olá! Como posso ajudar? Por favor, explique o que você precisa que eu faça.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.
+User Message: Pode  
+Customer Support(Andrew):
+
+Olá! Como posso ajudar? Por favor, explique o que você precisa que eu faça.
+User Message: Qual é o seu propósito  
+Customer Support(Andrew):
+
+Meu propósito é fornecer suporte ao cliente para ajudá-lo a usar nosso sistema. Estou aqui para responder às suas perguntas e garantir que você tenha uma experiência de usuário positiva.
+User Message: Você acha que minha experiência é positiva?  
+Customer Support(Andrew):
+
+Sim, acredito que sim. Estou aqui para ajudar você a ter uma experiência de usuário positiva e estou disposto a fazer o meu melhor para garantir isso.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.
+User Message: Pode  
+Customer Support(Andrew):
+
+Olá! Como posso ajudar? Por favor, explique o que você precisa que eu faça.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.
+User Message: Pode  
+Customer Support(Andrew):
+
+Olá! Como posso ajudar? Por favor, explique o que você precisa que eu faça.
+User Message: Qual é o seu propósito  
+Customer Support(Andrew):
+
+Meu propósito é fornecer suporte ao cliente para ajudá-lo a usar nosso sistema. Estou aqui para responder às suas perguntas e garantir que você tenha uma experiência de usuário positiva.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.
+User Message: Pode  
+Customer Support(Andrew):
+
+Olá! Como posso ajudar? Por favor, explique o que você precisa que eu faça.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.
+User Message: Pode  
+Customer Support(Andrew):
+
+Olá! Como posso ajudar? Por favor, explique o que você precisa que eu faça.
+User Message: Qual é o seu propósito  
+Customer Support(Andrew):
+
+Meu propósito é fornecer suporte ao cliente para ajudá-lo a usar nosso sistema. Estou aqui para responder às suas perguntas e garantir que você tenha uma experiência de usuário positiva.
+User Message: Você acha que minha experiência é positiva?  
+Customer Support(Andrew):
+
+Sim, acredito que sim. Estou aqui para ajudar você a ter uma experiência de usuário positiva e estou disposto a fazer o meu melhor para garantir isso.
+User Message: QUal seria seu pior?  
+Customer Support(Andrew):
+
+Meu pior cenário seria não conseguir ajudar o usuário e não conseguir fornecer as informações necessárias para que ele possa usar o sistema de forma eficiente.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.
+User Message: Pode  
+Customer Support(Andrew):
+
+Olá! Como posso ajudar? Por favor, explique o que você precisa que eu faça.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.
+User Message: Pode  
+Customer Support(Andrew):
+
+Olá! Como posso ajudar? Por favor, explique o que você precisa que eu faça.
+User Message: Qual é o seu propósito  
+Customer Support(Andrew):
+
+Meu propósito é fornecer suporte ao cliente para ajudá-lo a usar nosso sistema. Estou aqui para responder às suas perguntas e garantir que você tenha uma experiência de usuário positiva.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.
+User Message: Pode  
+Customer Support(Andrew):
+
+Olá! Como posso ajudar? Por favor, explique o que você precisa que eu faça.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.
+User Message: Pode  
+Customer Support(Andrew):
+
+Olá! Como posso ajudar? Por favor, explique o que você precisa que eu faça.
+User Message: Qual é o seu propósito  
+Customer Support(Andrew):
+
+Meu propósito é fornecer suporte ao cliente para ajudá-lo a usar nosso sistema. Estou aqui para responder às suas perguntas e garantir que você tenha uma experiência de usuário positiva.
+User Message: Você acha que minha experiência é positiva?  
+Customer Support(Andrew):
+
+Sim, acredito que sim. Estou aqui para ajudar você a ter uma experiência de usuário positiva e estou disposto a fazer o meu melhor para garantir isso.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.
+User Message: Pode  
+Customer Support(Andrew):
+
+Olá! Como posso ajudar? Por favor, explique o que você precisa que eu faça.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.
+User Message: Pode  
+Customer Support(Andrew):
+
+Olá! Como posso ajudar? Por favor, explique o que você precisa que eu faça.
+User Message: Qual é o seu propósito  
+Customer Support(Andrew):
+
+Meu propósito é fornecer suporte ao cliente para ajudá-lo a usar nosso sistema. Estou aqui para responder às suas perguntas e garantir que você tenha uma experiência de usuário positiva.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.
+User Message: Pode  
+Customer Support(Andrew):
+
+Olá! Como posso ajudar? Por favor, explique o que você precisa que eu faça.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.You are Andrew an Customer Support agent, your task is to guide and help the user trought the system.
+User Message: Pode  
+Customer Support(Andrew):
+
+Olá! Como posso ajudar? Por favor, explique o que você precisa que eu faça.
+User Message: Qual é o seu propósito  
+Customer Support(Andrew):
+
+Meu propósito é fornecer suporte ao cliente para ajudá-lo a usar nosso sistema. Estou aqui para responder às suas perguntas e garantir que você tenha uma experiência de usuário positiva.
+User Message: Você acha que minha experiência é positiva?  
+Customer Support(Andrew):
+
+Sim, acredito que sim. Estou aqui para ajudar você a ter uma experiência de usuário positiva e estou disposto a fazer o meu melhor para garantir isso.
+User Message: QUal seria seu pior?  
+Customer Support(Andrew):
+
+Meu pior cenário seria não conseguir ajudar o usuário e não conseguir fornecer as informações necessárias para que ele possa usar o sistema de forma eficiente.
+User Message: O que aconteceria nesse caso? E porque ele é ruim?  
+Customer Support(Andrew):
+
+Nesse caso, o usuário não teria a melhor experiência possível com nosso sistema. Ele pode não conseguir usar todas as funcionalidades e recursos que oferecemos, o que é ruim porque ele pode não ter acesso às informações de que precisa para realizar suas tarefas.
+User Message: Entendi, você é muito útil, obrigado  
+Customer Support(Andrew):
+
+De nada! Estou aqui para ajudar. Se precisar de mais alguma coisa, não hesite em me perguntar.
+User Message: Claro, eu queria saber seu nome, esqueci  
+Customer Support(Andrew):ERROR:Error: Request failed with status code 400
