@@ -38,10 +38,10 @@ io.on("connection", (socket) => {
   socket.on("message", (data) => {
     const timeRecieved = Date.now();
     console.log(data);
-    console.log(`${timeRecieved} ${data.user} : ${data.message}`);
+    // console.log(`${timeRecieved} ${data.user} : ${data.message}`);
+    console.log(`${data.user} said: ${data.message} \n`);
     // You can also store and process the browserData here if needed
     // console.log(data.browserData);
-
     io.emit("message", { user: data.user, message: data.message, time: timeRecieved });
   });
 
