@@ -21,28 +21,34 @@ app.use(express.json());
 app.use("/api", apiRouter);
 
 io.on("connection", (socket) => {
-  // Implement chat functionality here
   socket.on("join", (data) => {
     console.log("A user connected");
-    socket.join(data.room);
-    console.log(data.user + " joined the room : " + data.room);
-    socket.broadcast.to(data.room).emit("new user joined", { user: data.user, message: "has joined this room." });
-  });
+    const userType = data.userType; // "user" or "customerSupport" or "bot"
+    const room = data.domain;
 
-  socket.on("leave", (data) => {
-    console.log(data.user + " left the room : " + data.room);
-    socket.broadcast.to(data.room).emit("left room", { user: data.user, message: "has left this room." });
-    socket.leave(data.room);
+    if (userType === "user") {
+      const userRoom = `${data.user}-${room}`;
+      socket.join(userRoom);
+      console.log(`${data.user} joined the user room: ${userRoom}`);
+    } else if (userType === "customerSupport") {
+      socket.join(room);
+      console.log(`${data.user} joined the customer support room: ${room}`);
+    }
   });
 
   socket.on("message", (data) => {
     const timeRecieved = Date.now();
     console.log(data);
-    // console.log(`${timeRecieved} ${data.user} : ${data.message}`);
     console.log(`${data.user} said: ${data.message} \n`);
-    // You can also store and process the browserData here if needed
-    // console.log(data.browserData);
-    io.emit("message", { user: data.user, message: data.message, time: timeRecieved });
+
+    if (data.userType === "user") {
+      const userRoom = `${data.user}-${data.clientInfo.domain}`;
+      io.to(userRoom).emit("message", { user: data.user, message: data.message, time: timeRecieved });
+      io.to(data.clientInfo.domain).emit("message", { user: data.user, message: data.message, time: timeRecieved });
+    } else if (data.userType === "customerSupport") {
+      const targetUserRoom = `${data.targetUser}-${data.clientInfo.domain}`;
+      io.to(targetUserRoom).emit("message", { user: data.user, message: data.message, time: timeRecieved });
+    }
   });
 
   socket.on("disconnect", () => {
